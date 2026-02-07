@@ -1,6 +1,8 @@
 # medical_analyzer
 An experimental medical analyzer that uses computer vision to try to identify abnormalities in an MRI scans.
 
+This is not a medically approved tool and is not yet accurate anough for any form of serious medical use.
+
 The setup file installs all of the necessary vision models.
 
 To run the setup script on most linux distros run the following:
